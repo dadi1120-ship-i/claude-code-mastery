@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /c/Users/crinity/Desktop/claude/claude-code-mastery/**/)",
+      "Bash(echo \"3 + 5:*)",
+      "Bash(node calculator.js)"
+    ]
+  },
+  "model": "sonnet",
+  "outputStyle": "default"
+}
